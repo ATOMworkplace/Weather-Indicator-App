@@ -33,7 +33,7 @@ const html=`<!DOCTYPE html>
     </center>
     <center>
         <div class="temp-box">
-            <img class="temp-img" id="temp-img" src="images/thunderstormicon.gif"><br>
+            <img class="temp-img" id="temp-img" src="images/G4S3.gif"><br>
             <center>
                 <span id="temp-text" class="temp-text">
                     . . .
@@ -169,6 +169,6 @@ app.post("/",function(req,res){
 
 
 
-app.listen( 3000,function(){
+app.listen(process.env.PORT || 3000,function(){
     console.log("Server started");
 })
