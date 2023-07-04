@@ -1,0 +1,122 @@
+.wind-icon{
+    margin : 10px;
+    height : 60px;
+}
+.location-icon{
+    margin : 10px;
+    height : 60px;
+}
+.humidity-icon{
+    margin: 10px;
+    height : 60px;
+}
+.btn{
+    background-color: #FFA41B;
+    color:white;
+    border-radius: 5px;
+    height : 49px;
+    vertical-align: top;
+}
+.cityName{
+    height : 50px;
+    border-color: #FFA41B;
+    border-radius: 5px;
+    vertical-align: top;
+    width : 300px;
+}
+.inner-btn-text{
+    height : 25px;
+    width : 25px
+}
+.cityName::placeholder{
+    font-size: 1.23rem;
+    text-align: center;
+    color: #FFA41B;
+    font-weight: bolder;
+}
+.search-box{
+    height : 50px;
+    margin : 20px;
+    margin-top: 50px;
+}
+
+.weather-box{
+    display: flex;
+    flex-direction : row;
+    justify-content: center;
+    gap : 200px;
+}
+h1{
+    font-family: 'Nabla', cursive;
+    font-size: 5rem;
+}
+.wind-text{
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #fcbb5a;
+}
+.location-text{
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #fcbb5a;
+}
+
+.wind-text1{
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #fcbb5a;
+    -webkit-text-stroke: 1px #fa9804 ;
+}
+.location-text1{
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #fcbb5a;
+    -webkit-text-stroke: 1px #fa9804 ;
+}
+
+.humidity-text{
+    font-weight: bold;
+    font-size : 1.2rem;
+    color: #fcbb5a;
+    
+}
+.humidity-text1{
+    font-size : 1.2rem;
+    font-weight: bold;
+    color: #fcbb5a;
+    -webkit-text-stroke: 1px #fa9804 ;
+    
+}
+.temp-img{
+    height : 230px;
+    width : 300px;
+    margin : 20px;
+    border-radius: 10px;
+}
+.temp-text{
+    font-size: 2rem;
+    font-weight: bold;
+    color: #fcbb5a;
+    -webkit-text-stroke: 1px #fa9804 ;
+}
+
+.temp-desc{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fcbb5a;
+    -webkit-text-stroke: 1px #fa9804 ;
+}
+
+.temp-desc2{
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #fcbb5a;
+}
+.footer{
+    margin-top: 30px;
+    text-align: center;
+    color: #e18802;
+}
+body{
+    background-color: #2D4356;
+}
