@@ -16,6 +16,7 @@ const html=`<!DOCTYPE html>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nabla&display=swap" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="https://www.freeiconspng.com/images/weather-icon-png">
 </head>
 <body>
     <center>
