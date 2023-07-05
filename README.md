@@ -1,13 +1,14 @@
 # Weather-Indicator-App
 Gives weather details such as wind speed, temperature, humidity, and general weather description of the entered city
-
-<h3>How to start app</h3>
+<h3>How to start app online</h3>
+<h5>1. Fork the repo and save it on your account.</h5>
+<h5>1. Use the cyclic cloud platform, select the forked repo, and deploy it.</h5>
+<h3>How to start the app on your local system</h3>
 <h5>1. Clone the following repo and open it in vs code.</h5>
 <h5>2. Start the terminal using the cd command and go into the weather-indicator folder.</h5>
 <h5>3. Install node_modules >>express, fs, https, bodyParser, JSDOM, >> using command npm i name_modules.</h5>
 <h5>3. Using the command node app.js run the file.</h5>
 <h5>4. Open the web browser and go to localhost:3000 to start the server.</h5>
-<h5>5. This project can be deployed on a cloud platform (either free [<em>cyclic</em>, render, vercel] or for some fees.</h5>
 
 <h3>Screenshots</h3>
 
