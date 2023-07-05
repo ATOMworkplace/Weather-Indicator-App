@@ -63,7 +63,7 @@ const html=`<!DOCTYPE html>
             </div>
         <div class="location">
             <center>
-            <img class="location-icon" src="images/pin.png"><br>
+            <img class="location-icon" src="https://finbarhussey.com/whats-new/tag/gifs"><br>
             </center>
             <span name="location-text" class="location-text">Location</span><br>
             <center>            
