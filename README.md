@@ -6,7 +6,7 @@ Gives weather details such as wind speed, temperature, humidity, and general wea
 <h5>2. Start the terminal using the cd command and go into the weather-indicator folder.</h5>
 <h5>3. Using the command node app.js run the file.</h5>
 <h5>4. Open the web browser and go to localhost:3000 to start the server.</h5>
-<h5>5. This project can be deployed on a cloud platform (either free [<b>cyclic</b>, render, vercel] or for some fees.</h5>
+<h5>5. This project can be deployed on a cloud platform (either free [<bold>cyclic</bold>, render, vercel] or for some fees.</h5>
 
 <h3>Screenshots</h3>
 
