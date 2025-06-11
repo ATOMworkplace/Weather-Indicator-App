@@ -1,5 +1,13 @@
 # Weather-Indicator-App
 Gives weather details such as wind speed, temperature, humidity, and general weather description of the entered city
+---
+
+### Acknowledgment & Purpose
+
+This project was created for **learning and practice purposes**. It is primarily based on concepts and code structures demonstrated in various online tutorials and resources, which served as invaluable guides in my understanding and implementation. While I've applied my own learning and made adaptations, the core ideas and fundamental components originate from these educational materials. This repository showcases my efforts to understand and apply specific technologies and programming paradigms, rather than presenting entirely novel creation.
+
+---
+
 <h3>How to start app online</h3>
 <h5>1. Fork the repo and save it on your account.</h5>
 <h5>1. Use the cyclic cloud platform, select the forked repo, and deploy it.</h5>
